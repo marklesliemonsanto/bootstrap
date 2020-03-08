@@ -1,0 +1,12 @@
+@font-face{
+    src: url(../font/Shelldon.ttf);
+    font-family: "Shelldon";
+}
+.titlee{
+    font-family: Shelldon;    
+}
+.logo{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 90%;
+}
